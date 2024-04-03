@@ -1,6 +1,8 @@
 # MyDigiTwin - GitHub organization
 
-![Your Organization Logo](793693_14833bd197c84acd8ccfdd07b77f8d61~mv2.png)
+![Your Organization Logo](https://github.com/MyDigiTwinNL/.github/raw/main/profile/793693_14833bd197c84acd8ccfdd07b77f8d61~mv2.png)
+
+
 
 ## Project Description
 
@@ -20,7 +22,7 @@ Given these requirements, the following tools are currently under development:
 
 1. **[LifelinesCSV2CDF](https://github.com/MyDigiTwinNL/LifelinesCSV2CDF)**: for pre-processing and rearranging the assessment-centered Lifelines' CSV data (one file per assessment, with the results of N participants), into patient-centered CDF files (N files, each one with all the assessment of one participant). This format servers as an intermediate, standardized format that simplifies the computation of pairing rules defined for transforming any reference dataset into FHIR format.
 2. **[CDF2FHIR](https://github.com/MyDigiTwinNL/CDF2Medmij-Mapping-tool)**: Framework for transforming cohort data structured as CDF files into standard FHIR-resource bundles, giving a set of pairing rules.
-3. **[SQLonFHIRProjection (requires organization membership)](https://github.com/MyDigiTwinNL/SQLonFHIRProjections)**: A tool for traversing local FHIR resources, getting the properties that are relevant for research purposes and making them explorable/usable on any regular programming language.
+3. **[Lifelines harmonized data access documentation (requires organization membership)](https://github.com/MyDigiTwinNL/LifelinesDataAccessDocumentation)**: A tool for traversing local FHIR resources, getting the properties that are relevant for research purposes and making them explorable/usable on any regular programming language.
 
 
 ## Contact
