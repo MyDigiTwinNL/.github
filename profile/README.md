@@ -18,7 +18,7 @@ The MedMij FHIR's profile has been selected as the standard for harmonizing the 
 
 Given these requirements, the following tools are currently under development:
 
-1. **[LifelinesCSV2CDF](https://github.com/your-organization/repository-2)**: for pre-processing and rearranging the assessment-centered Lifelines' CSV data (one file per assessment, with the results of N participants), into patient-centered CDF files (N files, each one with all the assessment of one participant). This format servers as an intermediate, standardized format that simplifies the computation of pairing rules defined for transforming any reference dataset into FHIR format.
+1. **[LifelinesCSV2CDF](https://github.com/MyDigiTwinNL/LifelinesCSV2CDF)**: for pre-processing and rearranging the assessment-centered Lifelines' CSV data (one file per assessment, with the results of N participants), into patient-centered CDF files (N files, each one with all the assessment of one participant). This format servers as an intermediate, standardized format that simplifies the computation of pairing rules defined for transforming any reference dataset into FHIR format.
 2. **[CDF2FHIR](https://github.com/MyDigiTwinNL/CDF2Medmij-Mapping-tool)**: Framework for transforming cohort data structured as CDF files into standard FHIR-resource bundles, giving a set of pairing rules.
 3. **[SQLonFHIRProjection (requires organization membership)](https://github.com/MyDigiTwinNL/SQLonFHIRProjections)**: A tool for traversing local FHIR resources, getting the properties that are relevant for research purposes and making them explorable/usable on any regular programming language.
 
