@@ -13,6 +13,11 @@ MyDigiTwin is a scientific initiative to develop a platform in which individuals
 
 1. **[MyDigiTwin architecture (requires organization membership)](https://github.com/MyDigiTwinNL/MyDigiTwin-architecture-documentation)**: (Living) Architecture documentation for the MyDigiTwin project, based on arc42, a lightweight template for documenting software architectures.
 
+### Research infrastructure
+
+1. **[Vantage6 nodes - setup guidelines for Linux](https://github.com/MyDigiTwinNL/MyDigiTwin-federeated-learning-node-setup-guidelines)**
+
+
 ### Data harmonization
 
 The MedMij/FHIR standard was chosen as the mean for unifying the structure, formats, and dimensions across the aforementioned big-data reference datasets. Given this and the privacy-preserving principles that guide MyDigiTwin's system architecture, there are two key requirements for this harmonization process: (1) the reference datasets/biobanks must not leave their host, hence their transformations (to the FHIR standard) need to be performed within their corresponding cluster environment, and (2) any computations on the transformed data must also be performed within the cluster environment.
