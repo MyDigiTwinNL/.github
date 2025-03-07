@@ -11,7 +11,7 @@ MyDigiTwin is a scientific initiative to develop a platform in which individuals
 
 ### System and Software architecture
 
-1. **[MyDigiTwin architecture (requires organization membership)](https://github.com/MyDigiTwinNL/MyDigiTwin-architecture-documentation)**: (Living) Architecture documentation for the MyDigiTwin project, based on arc42, a lightweight template for documenting software architectures.
+1. **[MyDigiTwin architecture](https://github.com/MyDigiTwinNL/MyDigiTwin-architecture-documentation)**: (Living) Architecture documentation for the MyDigiTwin project, based on arc42, a lightweight template for documenting software architectures.
 
 ### Research infrastructure
 
